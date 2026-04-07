@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-  int 
+  int NumTsp;
+  cin >> NumT
 }
