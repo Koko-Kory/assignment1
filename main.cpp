@@ -17,10 +17,10 @@ int main() {
   int quart = cup / 4;
   int leftOverCup = cup % 4;
 
-  cout << quart << " quart(s)";
+  cout << quart << " quart(s)" << endl;
   cout << leftOverCup << " cup(s)" << endl;
   cout << leftOverTbsp << " Tablespoon(s)" << endl;
-  cout << leftOverTsp << " teaspoon(s)"
+  cout << leftOverTsp << " teaspoon(s)";
   
   
   
