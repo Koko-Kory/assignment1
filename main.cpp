@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
   int NumTsp;
-  cin >> NumT
+  cin >> NumTsp;
 }
