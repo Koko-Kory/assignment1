@@ -2,12 +2,13 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
   int NumTsp;
   cout << "number of teaspoons:";
   cin >> NumTsp;
-  
-  //measurments
+
+  // measurments
   int tbsp = NumTsp / 3;
   int leftOverTsp = NumTsp % 3;
 
@@ -21,9 +22,4 @@ int main() {
   cout << leftOverCup << " cup(s)" << endl;
   cout << leftOverTbsp << " Tablespoon(s)" << endl;
   cout << leftOverTsp << " teaspoon(s)";
-  
-  
-  
-  
-
 }
