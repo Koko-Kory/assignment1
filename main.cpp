@@ -19,8 +19,9 @@ int main() {
 
   cout << quart << " quart(s)";
   cout << leftOverCup << " cup(s)" << endl;
-  cout << leftOverTsp << " teaspoon(s)" << endl;
   cout << leftOverTbsp << " Tablespoon(s)" << endl;
+  cout << leftOverTsp << " teaspoon(s)" << endl;
+  
   
   
   
