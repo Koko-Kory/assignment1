@@ -15,7 +15,7 @@ int main() {
   int leftOverTbsp = tbsp % 16;
 
 
-  cout << leftOverTbsp << " Tablespoon(s)" << endl
-   leftOverTsp << " tsp" << endl;
+  cout << leftOverTbsp << " Tablespoon(s)" << endl;
+  cout << leftOverTsp << " tsp" << endl;
 
 }
