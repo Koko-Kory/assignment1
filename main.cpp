@@ -17,7 +17,7 @@ int main() {
 
   cout << tbsp << " Tablespoon(s)" << endl;
   cout << cup << " Cup(s)" << endl;
-  cout << leftOverTsp << "leftovertsp" << endl:
+  cout << leftOverTsp << "leftovertsp" << endl;
   //int quart = cup / 4;
   //cout << quart << " Quart(s)" << endl;
 }
