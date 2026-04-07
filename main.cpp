@@ -15,5 +15,5 @@ int main() {
   cout << cup << "Cup(s)" << endl;
 
   int quart = cup / 4;
-  cout << quart << "quart(s)" <<
+  cout << quart << "quart(s)" << endl;
 }
