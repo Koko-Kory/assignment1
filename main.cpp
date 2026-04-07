@@ -9,7 +9,7 @@ int main() {
   
   //measurments
   int tbsp = NumTsp / 3;
-  int leftOver
+  int leftOverTsp = NumTsp
 
 
   cout << tbsp << " Tablespoon(s)" << endl;
