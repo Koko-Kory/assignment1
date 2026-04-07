@@ -11,5 +11,7 @@ int main() {
   int tbsp = NumTsp / 3;
   cout << tbsp << "Tablespoon(s)";
 
-  int cup = 
+  int cup = tbsp / 16;
+
+  int quart = cup
 }
