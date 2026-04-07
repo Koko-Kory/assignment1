@@ -16,6 +16,6 @@ int main() {
 
 
   cout << tbsp << " Tablespoon(s)" << endl << leftOverTsp << " tsp" << endl;
-  cout << cup << " cups" << endlleftOverTbsp << " leftovertbsp" << endl;
+  cout << cup << " cups" << endl << leftOverTbsp << " leftovertbsp" << endl;
 
 }
