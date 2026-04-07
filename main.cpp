@@ -13,7 +13,7 @@ int main() {
 
   int cup = tbsp / 16;
   
-  tbsp =  % 16;
+  tbsp = NumTsp % 16;
   cout << cup << " Cup(s)" << endl;
   //int quart = cup / 4;
   //cout << quart << " Quart(s)" << endl;
