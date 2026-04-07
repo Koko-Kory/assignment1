@@ -11,7 +11,7 @@ int main() {
   int tbsp = NumTsp / 3;
   int leftOverTsp = NumTsp % 3;
 
-  
+  int cup = tbsp
 
 
   cout << tbsp << " Tablespoon(s)" << endl << leftOverTsp << " tsp" << endl;
