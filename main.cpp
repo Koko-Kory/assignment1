@@ -6,4 +6,5 @@ int main()
 {
   int NumTsp;
   cin >> NumTsp;
+  cout << NumTsp;
 }
