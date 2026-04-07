@@ -9,7 +9,7 @@ int main() {
   
   //measurments
   int tbsp = NumTsp / 3;
-  cout << tbsp << "Tablespoon";
-
+  cout << tbsp << "Tablespoon(s)";
+, 
   
 }
