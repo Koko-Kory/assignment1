@@ -9,11 +9,11 @@ int main() {
   
   //measurments
   int tbsp = NumTsp / 3;
-  cout << tbsp << "Tablespoon(s)" << endl;
+  cout << tbsp << " Tablespoon(s)" << endl;
 
   int cup = tbsp / 16;
   cout << cup << " Cup(s)" << endl;
 
   int quart = cup / 4;
-  cout << quart << "quart(s)" << endl;
+  cout << quart << " Quart(s)" << endl;
 }
