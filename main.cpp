@@ -8,8 +8,8 @@ int main() {
   cin >> NumTsp;
   
   //measurments
-  int Tbsp = NumTsp / 3;
-  cout 
+  int tbsp = NumTsp / 3;
+  cout << tbsp
 
   
 }
