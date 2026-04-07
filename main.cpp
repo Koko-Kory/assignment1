@@ -8,7 +8,7 @@ int main() {
   cin >> NumTsp;
   
   //measurments
-  int quart = NumTsp 
+  int quart = NumTsp / 
 
   
 }
