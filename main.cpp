@@ -19,7 +19,7 @@ int main() {
 
   cout << leftOverTsp << " tsp" << endl;
   cout << leftOverTbsp << " Tablespoon(s)" << endl;
-  cout << leftOverCup << ""
+  cout << leftOverCup << " cup(s)"
   cout << cup << " cup(s)";
   
 
