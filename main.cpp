@@ -14,9 +14,11 @@ int main() {
   int cup = tbsp / 16;
   int leftOverTbsp = tbsp % 16;
 
+  int 
+
   cout << leftOverTsp << " tsp" << endl;
   cout << leftOverTbsp << " Tablespoon(s)" << endl;
-  cout << cup << " cup(s";
+  cout << cup << " cup(s)";
   
 
 }
