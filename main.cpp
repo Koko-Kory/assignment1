@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   int NumTsp;
-  cout <<""
+  cout << " "
   cin >> NumTsp;
   cout << NumTsp;
   
